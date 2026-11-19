@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Golden Spirit Moon Halo behind ghost -->
+    <path
+        android:pathData="M54,22 A24,24 0 1,0 78,46 A19,19 0 1,1 54,22 Z"
+        android:fillColor="#FBBF24" />
+    <!-- Ambient drop shadow -->
+    <path
+        android:pathData="M42,84 L66,84 L62,88 L46,88 Z"
+        android:fillColor="#55000000" />
+    <!-- Stylized Pocong / Spirit Crest centered inside 72x72 safe zone -->
+    <path android:pathData="M54,26 C57,26 59,29 57,33 C65,37 68,52 64,68 C62,75 61,80 58,82 L50,82 C47,80 46,75 44,68 C40,52 43,37 51,33 C49,29 51,26 54,26 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="42"
+                android:startY="26"
+                android:endX="66"
+                android:endY="82"
+                android:type="linear">
+                <item android:color="#F5F3FF" android:offset="0.0" />
+                <item android:color="#C4B5FD" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Top knot tie -->
+    <path
+        android:pathData="M49,33 L59,33 L58,36 L50,36 Z"
+        android:fillColor="#A78BFA" />
+    <!-- Waist shroud bindings -->
+    <path
+        android:pathData="M43,54 L65,54 L64.5,57 L43.5,57 Z"
+        android:fillColor="#8B5CF6" />
+    <path
+        android:pathData="M45,68 L63,68 L62.5,71 L45.5,71 Z"
+        android:fillColor="#8B5CF6" />
+    <!-- Glowing spirit eyes -->
+    <path
+        android:pathData="M49,44 m-2.6,0 a2.6,3.4 0,1 1,5.2 0 a2.6,3.4 0,1 1,-5.2 0"
+        android:fillColor="#0F0724" />
+    <path
+        android:pathData="M59,44 m-2.6,0 a2.6,3.4 0,1 1,5.2 0 a2.6,3.4 0,1 1,-5.2 0"
+        android:fillColor="#0F0724" />
+    <path
+        android:pathData="M49,44 m-1.1,0 a1.1,1.3 0,1 1,2.2 0 a1.1,1.3 0,1 1,-2.2 0"
+        android:fillColor="#38BDF8" />
+    <path
+        android:pathData="M59,44 m-1.1,0 a1.1,1.3 0,1 1,2.2 0 a1.1,1.3 0,1 1,-2.2 0"
+        android:fillColor="#38BDF8" />
+    <!-- Spectral flame wisps -->
+    <path
+        android:pathData="M34,62 Q30,54 35,48 Q36,54 39,58 Z"
+        android:fillColor="#38BDF8" />
+    <path
+        android:pathData="M74,62 Q78,54 73,48 Q72,54 69,58 Z"
+        android:fillColor="#FBBF24" />
+</vector>

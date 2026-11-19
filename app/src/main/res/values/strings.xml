@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Perang Hantu</string>
+    <string name="app_tagline">Pertahanan Alam Gaib Nusantara</string>
+    <string name="menu_stage_title">Mode Stage</string>
+    <string name="menu_stage_desc">10 arena berhantu Nusantara, taklukkan satu per satu</string>
+    <string name="menu_tourn_title">Mode Turnamen</string>
+    <string name="menu_tourn_desc">Menangi babak beruntun dan rebut piala keramat</string>
+    <string name="menu_inf_title">Mode Infinity</string>
+    <string name="menu_inf_desc">Gelombang tanpa akhir dengan musuh yang makin buas</string>
+    <string name="menu_free_title">Mode Bebas</string>
+    <string name="menu_free_desc">Pilih arena dan tingkat kesulitan sesukamu</string>
+    <string name="menu_shop_title">Toko Dukun</string>
+    <string name="menu_shop_desc">Beli jimat sakti, upgrade benteng, dan rekrut hantu</string>
+    <string name="menu_kitab_title">Kitab Hantu</string>
+    <string name="menu_kitab_desc">Ensiklopedia statistik, kisah mistis, dan uji jurus</string>
+    <string name="menu_misi_title">Misi &amp; Prestasi</string>
+    <string name="menu_misi_desc">Klaim hadiah koin dari pencapaian pertempuran</string>
+    <string name="battle_hint_default">Geser kartu di bawah, ketuk untuk memanggil pasukan hantu!</string>
+    <string name="cd_back">Kembali</string>
+    <string name="cd_sound_toggle">Suara efek permainan</string>
+    <string name="cd_pause">Jeda pertempuran</string>
+    <string name="cd_speed">Kecepatan pertempuran</string>
+</resources>

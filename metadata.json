@@ -1,0 +1,6 @@
+{
+  "name": "Perang Hantu",
+  "description": "Game strategi pertahanan jalur hantu Nusantara HD dengan 9 hantu, 4 mode permainan, Kitab Hantu, dan Toko Dukun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
